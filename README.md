@@ -4,7 +4,7 @@
 
 Unlike generic recommendation apps, it uses a **Hybrid Intelligence Engine** to predict outfit styles based on weather/occasion utility, while strictly adhering to color theory rules to match the user's skin undertones.
 
-![Vogue AI Dashboard](screenshots/dashboard.jpg)
+![Vogue AI Dashboard](screenshots/dashboard.png)
 *(Replace with your actual image path)*
 
 ## 🚀 Key Features
