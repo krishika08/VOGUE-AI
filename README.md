@@ -40,10 +40,10 @@ The system processes data in three layers:
 ## 📸 Screenshots
 
 ### The Virtual Try-On & Color Palette
-![Mannequin](screenshots/screenshot_2.jpg)
+![Mannequin](screenshot_2.png)
 
 ### The Decision Logic (Explainable AI)
-![Decision Tree](screenshots/logic_tree.jpg)
+![Decision Tree](screenshot_3.png)
 
 ## 📦 Installation
 
@@ -69,4 +69,4 @@ The system processes data in three layers:
 * **AR Integration:** Overlay clothes onto the user's webcam feed using MediaPipe.
 
 ---
-*Created by [Your Name]*
+*Created by KRISHIKA*
